@@ -13,3 +13,4 @@ ifconfig wlan1 down
 killall dnsmasq hostapd
 echo "exiting is succesfull"
 
+
